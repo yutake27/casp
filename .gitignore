@@ -1,2 +1,12 @@
 *.tar.gz
 *.zip
+casp14/download/predictions
+casp14/download/results
+casp14/download/targets
+.vscode
+test_casp11-13
+.*
+tmp_casp11-13
+tmp_casp7-10
+training_casp7-10
+
