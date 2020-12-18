@@ -3,6 +3,11 @@
 casp14/download/predictions
 casp14/download/results
 casp14/download/targets
+casp14/pdb
+casp14/fasta
+casp14/label
+casp14/native
+casp14/profile
 .vscode
 test_casp11-13
 .*
